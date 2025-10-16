@@ -16,5 +16,4 @@ class Solution:
             
             w = right - left + 1
             max_w  = max(max_w, w)
-        
         return max_w
