@@ -10,3 +10,12 @@ class Solution:
             return stack
         
         return build_string(s) == build_string(t)
+
+if __name__ == "__main__":
+    res = Solution()
+    s = "ac#d"
+    t = "aa#d"
+    z = "a#d#"
+    x = "c#v"
+    print(res.backspaceCompare(s, t))
+    print(res.backspaceCompare(z, x))
