@@ -29,3 +29,5 @@ if __name__ == '__main__':
     print(res.twoSum(nums3, 9))
 
 
+# time complexity = 0(n)^2
+# space complexity = 0(1)
