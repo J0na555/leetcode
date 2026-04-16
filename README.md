@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/J0na555/leetcode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/J0na555/leetcode/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/J0na555/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
